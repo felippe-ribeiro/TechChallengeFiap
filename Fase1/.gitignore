@@ -1,0 +1,7 @@
+venv/
+tech_challenge_img/
+chest_xray/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
