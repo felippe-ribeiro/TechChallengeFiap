@@ -17,6 +17,9 @@ O projeto pode ser executado de duas formas: via Google Colab (recomendado para 
 Como o dataset para o projeto de visão computacional é muito grande vou disponibilizar o link para download:
 [Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
+**Link para download dos modelos já criados**
+https://drive.google.com/drive/folders/1peilzcaROo4ITLpYOOLLDrDEN6-wo-X2?usp=sharing
+
 
 # **Como Executar**
 Pré-requisitos
