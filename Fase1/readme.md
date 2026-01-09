@@ -55,9 +55,9 @@ python teste_diabetes.py
 ```
 **Abaixo exemplos de dados que simulam diabeticos e não diabeticos:**
 
-**Diabetico:** Gravidez: 6 | Glicose: 148 | Pressão: 72 | Pele: 35 | Insulina: 0 | IMC: 33.6 | Pedigree: 0.627 | Idade: 50
+**Diabetico:** Gravidez: 6 | Glicose: 148 | Pressão: 72 | Pele: 35 | Insulina: 150 | IMC: 33.6 | Pedigree: 0.627 | Idade: 50
 
-**Não Diabetes:** Gravidez: 1 | Glicose: 85 | Pressão: 66 | Pele: 29 | Insulina: 0 | IMC: 26.6 | Pedigree: 0.351 | Idade: 31
+**Não Diabetes:** Gravidez: 1 | Glicose: 85 | Pressão: 66 | Pele: 29 | Insulina: 90 | IMC: 26.6 | Pedigree: 0.351 | Idade: 31
 
 ## 2. Módulo de Pneumonia (Visão Computacional - Bônus)
 Nesta etapa, utilizamos Redes Neurais Convolucionais (CNN) para detectar pneumonia em Raio-X de tórax.
