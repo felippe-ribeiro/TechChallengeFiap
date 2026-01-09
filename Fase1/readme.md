@@ -120,3 +120,21 @@ Após treinar o modelo ou realizar o download do meu modelo pronto. Utilize o sc
 ```bash
 python teste_raiox.py
 ```
+
+
+**Inclui também opção de Docker**
+**1. Construir a imagem:**
+```bash
+docker build -t tech-challenge-fase1 .
+```
+
+o script exige interação então rode:
+```bash
+docker run -it tech-challenge-fase1
+```
+dentro do container é possível rodar:
+# Para treinar e testar diabetes
+python analise_diabetes.py
+python teste_diabetes.py
+
+O docker não funciona o plt.show() pelo que testei, recomendo rodar o script localmente.

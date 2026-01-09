@@ -1,0 +1,6 @@
+tech_challenge_img
+chest_xray
+__pycache__
+*.pyc
+.git
+.gitignore
